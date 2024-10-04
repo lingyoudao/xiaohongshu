@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  xiaohongshu
 //
-//  Created by lyd on 2024/10/4.
+//  Created by lyd12 on 2024/10/4.
 //
 
 import SwiftUI
